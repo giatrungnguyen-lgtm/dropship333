@@ -1,0 +1,7 @@
+{
+  "name": "DropShip Manager Pro",
+  "description": "A comprehensive dropshipping management system for tracking orders, calculating profits from dealer prices, and generating settlement reports with suppliers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
